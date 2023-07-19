@@ -1,0 +1,9 @@
+../solutions/lab4-mux/multiplexor.v
+../solutions/lab5-drvr/driver.v
+../solutions/lab6-alu/alu.v
+../solutions/lab7-ctrl/controller.v
+../solutions/lab9-mem/memory.v
+../solutions/lab8-reg/register.v
+../solutions/lab10-cntr/counter.v
+./risc.v
+./risc_test.v
